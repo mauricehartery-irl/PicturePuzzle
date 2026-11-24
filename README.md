@@ -16,5 +16,5 @@ Open `index.html` in a modern browser. No build step, server, or JavaScript pack
 
 ## Picture clues
 
-This first playable version uses composed emoji scenes as its picture clues. Generated raster artwork is deferred; the clue display is isolated so a future image library can be added without changing the guessing and scoring logic.
+The game includes 36 original SVG picture clues drawn directly in `illustrations.js`. They use no external image service, API key, or third-party image assets, and work offline once the files are on your device.
 
