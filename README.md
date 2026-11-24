@@ -4,7 +4,7 @@ A responsive, single-page idiom guessing game. Read each visual clue, type the f
 
 ## Play
 
-Open `index.html` in a modern browser. No build step, server, or JavaScript package is required.
+Open `index.html` in a modern browser, keeping `illustrations.js` in the same folder. No build step, server, or JavaScript package is required.
 
 ## Game features
 
